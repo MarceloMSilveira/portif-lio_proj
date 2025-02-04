@@ -1,0 +1,6 @@
+/* Adiciona espaçamento à direita do link com o ícone */
+.home-link {
+  margin-right: 10px;
+  text-decoration: none;
+  color: inherit; /* Herda a cor do cabeçalho */
+}
